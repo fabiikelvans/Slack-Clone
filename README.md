@@ -7,7 +7,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ### Live
-Check out the demo site [Tinder Clone](https://slack-clone-f6da6.web.app/)
+Check out the demo site [Slack Clone](https://slack-clone-f6da6.web.app/)
 
 
 ### Built using:
